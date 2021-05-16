@@ -50,8 +50,9 @@ The team has carefully chosen new datasets (CSV files from Kaggle website) from 
 
 
 ## Provisional Machine Learning Model
-* Feature Importance analysis and Random Forest Model
+* Feature Importance analysis and Random Forest Model/ Deep Learning Model
 * SHAP values
+The candidates of input variables are features potentially related to a game's viewership, such as the genre of the game, number of monthly reviews on steam, etc. The output of the model would be predictions on proxies of viewership, i.e., hours watched per month, average number of viewers per channel.
 
 The idea is to perform feature importance analysis on the Objective 1 to conclude the features that do cast an impact on the Twitch Viewership. Then we will use SHAP values to interpret the impact of certain values for a given feature compared to the baseline values. 
 
