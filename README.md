@@ -58,8 +58,12 @@ The candidates of input variables are features potentially related to a game's v
 The idea is to perform feature importance analysis on the Objective 1 to conclude the features that do cast an impact on the Twitch Viewership. Then we will use SHAP values to interpret the impact of certain values for a given feature compared to the baseline values. 
 
 ## Provisional Database
-* PostgresSQL will be used to store our table(s) from the datasets after data cleaning.
 
+For the purposes of achieving Objective 1, a database connection will not be used; instead, available CSV files will be loaded into memory for the purposes of cleaning.
+
+Once cleaned, all data will be loaded to memory simultaneously in order to run a comprehensive feature importance analysis with accounts for majority of features included in our reviews dataset.
+
+Objective 2's scope, which is yet to be finalized, will likely use some form of PostgreSQL to store and stage the entire dataset to allow for querying select portions of data to account for user-generated insights.
 
 ## References:
 
