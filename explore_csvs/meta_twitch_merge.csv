@@ -1,0 +1,306 @@
+,Unnamed: 0,Title,Year_x,Publisher,Genre,Platform,Metascore,Avg_Userscore,No_Players,Rank,Game,Month,Year_y,Hours_watched,Hours_Streamed,Peak_viewers,Peak_channels,Streamers,Avg_viewers,Avg_channels,Avg_viewer_ratio
+0,20,halflife 2,2004,ValveSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,96,9.1,No Online Multiplayer,163,halflife 2,1,2016,211067,2357 hours,162911,16,669,284,3,89.55
+1,21,grand theft auto v,2015,RockstarNorth,Modern;Action Adventure;Open-World,PC,96,7.7,Up to 32 ,19,grand theft auto v,1,2016,4014296,407172 hours,32724,1197,85441,5402,548,9.86
+2,38,bioshock,2007,"IrrationalGames,2KMarin",Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,96,8.5,No Online Multiplayer,167,bioshock,7,2016,189398,3650 hours,128499,25,1022,254,4,51.89
+3,56,portal 2,2011,ValveSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,95,9.0,not specified,111,portal 2,1,2016,306977,7278 hours,143611,38,2539,413,9,42.18
+4,71,the elder scrolls v skyrim,2011,BethesdaGameStudios,Role-Playing;First-Person;First-Person;Western-Style,PC,94,8.2,No Online Multiplayer,44,the elder scrolls v skyrim,1,2016,1192580,32134 hours,32296,82,4854,1605,43,37.11
+5,72,mass effect 2,2010,BioWare,Role-Playing;Action RPG;Action RPG,PC,94,8.8,No Online Multiplayer,106,mass effect 2,11,2016,324863,8299 hours,12237,33,1106,451,11,39.14
+6,77,grand theft auto vice city,2003,RockstarNorth,Action Adventure;Modern;Modern;Open-World,PC,94,8.8,No Online Multiplayer,165,grand theft auto vice city,1,2017,268119,1719 hours,161775,13,469,360,2,155.97
+7,84,bioshock infinite,2013,IrrationalGames,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,94,8.6,No Online Multiplayer,120,bioshock infinite,11,2016,236819,2858 hours,8854,19,666,329,3,82.86
+8,87,the elder scrolls iv oblivion,2006,BethesdaSoftworks,Role-Playing;First-Person;First-Person;Western-Style,PC,94,8.1,No Online Multiplayer,173,the elder scrolls iv oblivion,1,2016,195502,1723 hours,9447,11,294,263,2,113.47
+9,96,diablo,1996,BlizzardEntertainment,Role-Playing;Action RPG;Action RPG,PC,94,8.7,1-4 ,112,diablo,11,2016,264909,1180 hours,20637,9,172,368,1,224.5
+10,107,the witcher 3 wild hunt,2015,CDProjektRedStudio,Action RPG;Role-Playing;Action RPG,PC,93,9.3,No Online Multiplayer,73,the witcher 3 wild hunt,2,2016,437326,43966 hours,8528,133,7843,629,63,9.95
+11,117,divinity original sin ii,2017,LarianStudios,Action RPG;Role-Playing;Western-Style,PC,93,8.4,Online Multiplayer,141,divinity original sin ii,9,2016,150832,1621 hours,8374,29,394,209,2,93.05
+12,126,minecraft,2009,MojangAB,Action Adventure;Adventure;3D;Sandbox;First-Person;Fantasy;Fantasy,PC,93,7.5,Up to 10 ,6,minecraft,1,2016,10231056,490002 hours,64432,1538,88820,13769,659,20.88
+13,131,grand theft auto iii,2002,"DMADesign,RockstarNorth",Action Adventure;Modern;Modern;Open-World,PC,93,8.3,No Online Multiplayer,159,grand theft auto iii,1,2016,216252,1118 hours,142392,22,222,291,1,193.43
+14,151,star wars knights of the old republic,2003,BioWare,Role-Playing;Third-Person;Third-Person;General,PC,93,9.0,No Online Multiplayer,165,star wars knights of the old republic,7,2016,194589,812 hours,103627,6,148,261,1,239.64
+15,160,world of warcraft,2004,BlizzardEntertainment,Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,93,7.3,Massively Multiplayer,7,world of warcraft,1,2016,8771452,342978 hours,46130,1180,33375,11805,461,25.57
+16,161,grand theft auto san andreas,2005,RockstarNorth,Action Adventure;Modern;Modern;Open-World,PC,93,8.9,No Online Multiplayer,156,grand theft auto san andreas,1,2016,223408,10551 hours,4168,43,3142,300,14,21.17
+17,168,call of duty 4 modern warfare,2007,InfinityWard,Action;Shooter;Shooter;First-Person;Modern;Modern;Arcade,PC,92,8.5,Up to 18 ,128,call of duty 4 modern warfare,5,2016,166077,5273 hours,29734,34,1491,223,7,31.5
+18,195,team fortress 2,2007,ValveSoftware,Action;Shooter;Shooter;First-Person;Modern;Tactical;Modern,PC,92,9.1,Up to 32 ,103,team fortress 2,1,2016,329765,25296 hours,32609,86,4933,443,34,13.04
+19,209,undertale,2015,tobyfox,Role-Playing;General;Japanese-Style,PC,92,8.3,No Online Multiplayer,87,undertale,2,2016,345840,25568 hours,5832,97,6056,497,36,13.53
+20,254,dishonored,2012,ArkaneStudios,Action Adventure;Modern;General;Modern,PC,91,8.4,No Online Multiplayer,146,dishonored,2,2016,157621,2206 hours,10594,15,772,226,3,71.45
+21,263,overwatch,2016,BlizzardEntertainment,General;Action;Shooter;First-Person;Tactical,PC,91,6.7,Up to 12 ,13,overwatch,2,2016,4735263,68029 hours,94851,546,7075,6813,97,69.61
+22,276,metal gear solid v the phantom pain,2015,KojimaProductions,Action Adventure;Modern;Open-World,PC,91,7.8,Up to 16 ,94,metal gear solid v the phantom pain,2,2016,294576,35966 hours,3469,98,6530,423,51,8.19
+23,323,fallout 3,2008,BethesdaGameStudios,Role-Playing;First-Person;First-Person;Western-Style,PC,91,7.9,No Online Multiplayer,143,fallout 3,11,2017,274013,4723 hours,7221,18,675,381,6,58.02
+24,324,batman arkham city,2011,RocksteadyStudios,Action Adventure;Fantasy;Fantasy;Open-World,PC,91,8.7,not specified,139,batman arkham city,1,2017,325415,985 hours,166963,14,252,437,1,330.37
+25,340,mark of the ninja,2012,KleiEntertainment,Action;Platformer;Platformer;2D;2D,PC,91,8.0,No Online Multiplayer,186,mark of the ninja,7,2016,167880,341 hours,114059,8,101,225,0,492.32
+26,344,dark souls ii,2014,FromSoftware,Action RPG;Role-Playing;Action RPG,PC,91,7.2,Up to 4 ,171,dark souls ii,2,2016,123237,6900 hours,8190,26,1340,177,9,17.86
+27,381,spelunky,2013,DerekYu,Action;Platformer;Platformer;2D;2D,PC,90,7.3,No Online Multiplayer,178,spelunky,3,2017,146338,1917 hours,5921,10,437,196,2,76.34
+28,410,deus ex,2000,IonStorm,Action Adventure;Sci-Fi;Sci-Fi;General,PC,90,9.2,1 Player,104,deus ex,3,2016,254491,606 hours,10749,11,96,342,0,419.95
+29,431,bayonetta,2017,"PlatinumGames,NexEntertainment",Action Adventure;Linear,PC,90,8.2,No Online Multiplayer,94,bayonetta,4,2017,396836,9267 hours,24966,71,1909,551,12,42.82
+30,443,sid meiers civilization v,2010,FiraxisGames,Strategy;Turn-Based;Historic;Historic;4X,PC,90,8.0,Up to 4 ,79,sid meiers civilization v,2,2016,382560,11711 hours,2281,41,2043,550,16,32.67
+31,447,deus ex human revolution,2011,NixxesSoftware,Action;Action Adventure;Shooter;Sci-Fi;Sci-Fi;General;First-Person;Sci-Fi,PC,90,8.5,No Online Multiplayer,153,deus ex human revolution,4,2016,142244,567 hours,9920,8,100,197,0,250.87
+32,453,brothers a tale of two sons,2013,Starbreeze,Action Adventure;Fantasy;Fantasy;Linear,PC,90,8.6,No Online Multiplayer,173,brothers a tale of two sons,7,2017,257742,703 hours,165519,19,292,346,0,366.63
+33,454,dota 2,2013,ValveSoftware,General;Fantasy;MOBA;Strategy;Real-Time;MOBA,PC,90,6.5,Up to 10 ,3,dota 2,1,2016,45185893,433397 hours,315083,1100,44074,60815,583,104.26
+34,458,guild wars 2,2012,ArenaNet,General;Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,90,8.1,Massively Multiplayer,90,guild wars 2,2,2016,316227,21966 hours,5146,70,2628,455,31,14.4
+35,474,grand theft auto iv,2008,RockstarToronto,Action Adventure;Modern;Modern;Open-World,PC,90,6.7,1 Player,139,grand theft auto iv,1,2018,330519,2666 hours,13597,13,631,444,3,123.98
+36,489,star wars jedi knight ii jedi outcast,2002,RavenSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,89,8.7,Online Multiplayer,155,star wars jedi knight ii jedi outcast,2,2016,142993,277 hours,15523,5,66,205,0,516.22
+37,510,dark souls iii,2016,FromSoftware,Role-Playing;Action RPG,PC,89,8.5,Up to 6 ,11,dark souls iii,3,2016,5597403,46336 hours,121710,545,4293,7533,62,120.8
+38,511,dead cells,2018,MotionTwin,Action;Platformer;2D,PC,89,8.2,No Online Multiplayer,42,dead cells,5,2017,1384590,29167 hours,64823,122,6309,1863,39,47.47
+39,515,pillars of eternity,2015,ObsidianEntertainment,PC-style RPG;Third-Person;PC-style RPG;Role-Playing;Western-Style,PC,89,8.3,No Online Multiplayer,87,pillars of eternity,4,2018,675631,4619 hours,16860,24,552,939,6,146.27
+40,516,the elder scrolls iii morrowind,2002,BethesdaSoftworks,Role-Playing;First-Person;First-Person;Western-Style,PC,89,8.9,No Online Multiplayer,66,the elder scrolls iii morrowind,7,2016,539122,1819 hours,146352,11,294,725,2,296.38
+41,523,fallout,1997,BlackIsleStudios,Role-Playing;First-Person;First-Person;PC-style RPG;PC-style RPG;Western-Style,PC,89,8.8,1 Player,149,fallout,1,2020,547171,781 hours,181041,10,162,736,1,700.6
+42,525,into the breach,2018,SubsetGames,Strategy;Turn-Based;General;Tactics,PC,89,7.6,No Online Multiplayer,91,into the breach,2,2018,556930,5069 hours,39128,220,1338,830,7,109.87
+43,532,left 4 dead,2008,ValveSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,89,9.1,Up to 8 ,168,left 4 dead,1,2017,265959,1143 hours,140433,18,405,357,1,232.69
+44,533,left 4 dead 2,2009,ValveSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Tactical,PC,89,8.4,Up to 8 ,127,left 4 dead 2,1,2016,275962,15441 hours,106789,61,4527,371,20,17.87
+45,535,f1 2017,2017,Codemasters,Racing;Simulation;Automobile,PC,89,7.5,not specified,130,f1 2017,9,2017,288678,8322 hours,46173,46,2432,401,11,34.69
+46,548,mass effect,2008,"BioWare,DemiurgeStudios",Role-Playing;Action RPG;Console-style RPG;Japanese-Style;Western-Style,PC,89,8.6,No Online Multiplayer,153,mass effect,10,2016,177864,3208 hours,12487,16,612,239,4,55.44
+47,565,borderlands 2,2012,GearboxSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,89,8.2,Up to 4 ,191,borderlands 2,1,2016,175135,21849 hours,3376,71,4039,235,29,8.02
+48,595,mass effect 3,2012,BioWare,Role-Playing;Action RPG;Action RPG,PC,89,5.7,Up to 4 ,186,mass effect 3,11,2016,119779,6865 hours,2355,44,1003,166,9,17.45
+49,644,stardew valley,2016,"EricBarone,ConcernedApe",General;Role-Playing;General,PC,89,8.6,No Online Multiplayer,54,stardew valley,2,2016,891333,11046 hours,46505,243,2034,1282,15,80.69
+50,645,prince of persia the sands of time,2003,Ubisoft,Action Adventure;Fantasy;Fantasy;Linear,PC,89,8.6,No Online Multiplayer,196,prince of persia the sands of time,7,2017,220699,330 hours,142096,18,77,297,0,668.78
+51,646,what remains of edith finch,2017,GiantSparrow,Adventure;3D;First-Person,PC,89,8.2,No Online Multiplayer,186,what remains of edith finch,4,2017,134691,769 hours,45323,26,271,187,1,175.15
+52,657,xcom 2 war of the chosen,2017,FiraxisGames,Strategy;Turn-Based;Tactics,PC,88,7.7,not specified,31,xcom 2 war of the chosen,8,2017,2077319,9674 hours,37514,206,1269,2795,13,214.73
+53,660,microsoft flight simulator,2003,MicrosoftGameStudios,Simulation;Flight;Civilian Plane;Civilian,PC,88,8.2,1-16 ,32,microsoft flight simulator,8,2020,6817924,111482 hours,216593,987,15899,9176,150,61.16
+54,670,mafia,2002,IllusionSoftworks,Action Adventure;Historic;Historic;Open-World,PC,88,9.1,No Online Multiplayer,104,mafia,9,2016,240055,1074 hours,11806,12,170,333,1,223.51
+55,670,mafia,2002,IllusionSoftworks,Action Adventure;Historic;Historic;Open-World,PC,88,9.1,No Online Multiplayer,41,mafia,9,2020,5394800,67181 hours,181475,1449,8841,7503,93,80.3
+56,680,nuclear throne,2015,Vlambeer,General;Action;General;Shooter;Shoot-'Em-Up;Top-Down,PC,88,7.6,No Online Multiplayer,109,nuclear throne,1,2016,312687,5744 hours,30008,29,1387,420,7,54.44
+57,697,monster hunter world,2018,Capcom,Role-Playing;Action RPG,PC,88,5.2,Up to 4 ,37,monster hunter world,12,2017,2439824,33277 hours,141768,1766,7501,3283,44,73.32
+58,703,kerbal space program,2015,"SQUADTeam,Squad",Sci-Fi;Small Spaceship;Small Spaceship;Simulation;Space;Combat,PC,88,8.2,No Online Multiplayer,122,kerbal space program,1,2016,283635,11554 hours,5948,36,1450,381,15,24.55
+59,704,ori and the blind forest,2016,MoonStudios,Action;Platformer;2D,PC,88,8.6,No Online Multiplayer,134,ori and the blind forest,1,2016,264522,7448 hours,125559,32,2057,356,10,35.52
+60,837,ori and the blind forest,2015,MoonStudios,Action;Platformer;2D,PC,88,8.7,No Online Multiplayer,134,ori and the blind forest,1,2016,264522,7448 hours,125559,32,2057,356,10,35.52
+61,727,starcraft,1998,BlizzardEntertainment,Strategy;Real-Time;Sci-Fi;Sci-Fi;Command,PC,88,9.1,1-8 ,115,starcraft,7,2017,418836,1341 hours,85472,31,326,563,1,312.33
+62,1629,starcraft,2017,BlizzardEntertainment,Strategy;Real-Time;Command,PC,85,7.6,not specified,115,starcraft,7,2017,418836,1341 hours,85472,31,326,563,1,312.33
+63,744,xcom 2,2016,FiraxisGames,Strategy;Turn-Based;General;Tactics,PC,88,7.2,2 ,9,xcom 2,2,2016,6399599,101051 hours,76838,782,9604,9208,145,63.33
+64,747,cuphead,2017,StudioMDHR,Action;Platformer;2D,PC,88,8.3,not specified,37,cuphead,9,2017,1605347,21352 hours,106835,900,8153,2232,29,75.18
+65,783,pillars of eternity ii deadfire,2018,ObsidianEntertainment,Role-Playing;Western-Style,PC,88,7.7,No Online Multiplayer,49,pillars of eternity ii deadfire,5,2018,1731365,25887 hours,23893,275,2196,2330,34,66.88
+66,799,sid meiers civilization vi,2016,FiraxisGames,Strategy;Turn-Based;4X,PC,88,7.1,not specified,113,sid meiers civilization vi,9,2016,203856,110 hours,26719,11,29,283,0,1853.24
+67,800,battlefield 1,2016,EADICE,General;Action;Shooter;First-Person;Tactical,PC,88,7.2,not specified,35,battlefield 1,7,2016,1614932,7456 hours,57001,82,991,2173,10,216.59
+68,803,diablo iii,2012,BlizzardEntertainment,Role-Playing;Action RPG;Action RPG,PC,88,4.1,Up to 4 ,12,diablo iii,1,2016,6235668,218490 hours,57383,2185,25458,8392,294,28.54
+69,809,eve online,2009,CCP,Role-Playing;Miscellaneous;Massively Multiplayer Online;Compilation;Sci-Fi,PC,88,7.7,not specified,124,eve online,1,2016,282036,9751 hours,1867,35,925,379,13,28.92
+70,814,guacamelee,2013,DrinkBoxStudios,Action;Platformer;Platformer;2D;2D,PC,88,7.3,No Online Multiplayer,187,guacamelee,7,2017,233899,168 hours,143685,8,41,314,0,1392.26
+71,831,owlboy,2016,D-PadStudio,Fantasy;Action Adventure;General,PC,88,7.7,No Online Multiplayer,116,owlboy,11,2016,247530,4865 hours,24878,47,1015,344,6,50.88
+72,834,celeste,2018,MattMakesGamesInc.,Action;Platformer;2D,PC,88,7.2,No Online Multiplayer,74,celeste,2,2018,708705,20863 hours,30194,98,3212,1056,31,33.97
+73,836,night in the woods,2017,InfiniteFall,Fantasy;Action Adventure;Adventure;General,PC,88,7.8,No Online Multiplayer,153,night in the woods,2,2017,200796,3291 hours,8399,59,711,299,4,61.01
+74,844,diablo ii,2000,BlizzardNorth,Role-Playing;Action RPG;Action RPG,PC,88,8.8,Up to 8 ,183,diablo ii,10,2020,620282,22850 hours,4334,69,1265,834,30,27.15
+75,849,the witcher 2 assassins of kings,2011,CDProjektRedStudio,Role-Playing;Action RPG;Action RPG,PC,88,8.5,No Online Multiplayer,137,the witcher 2 assassins of kings,11,2017,278136,2569 hours,13068,15,346,386,3,108.27
+76,857,doom 3,2004,idSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,87,7.6,4  Online,172,doom 3,5,2016,116783,1981 hours,10092,14,584,157,2,58.95
+77,892,subnautica,2018,UnknownWorldsEntertainment,Adventure;General,PC,87,8.2,No Online Multiplayer,167,subnautica,1,2016,201729,5619 hours,32141,27,1133,271,7,35.9
+78,895,battlefield bad company 2,2010,EADICE,Action;Shooter;Shooter;First-Person;Modern;Modern;Arcade,PC,87,8.3,not specified,163,battlefield bad company 2,6,2016,125333,1081 hours,28282,12,388,174,1,115.94
+79,917,diablo ii lord of destruction,2001,BlizzardNorth,Role-Playing;Action RPG;Action RPG,PC,87,9.0,1-8 ,120,diablo ii lord of destruction,2,2016,196767,5194 hours,1812,22,543,283,7,37.88
+80,929,hitman 2,2002,IoInteractive,Action Adventure;Modern;General;Modern,PC,87,8.1,No Online Multiplayer,42,hitman 2,11,2018,2944797,29072 hours,78744,265,6342,4095,40,101.29
+81,938,max payne 3,2012,RockstarStudios,Action;Shooter;Shooter;Third-Person;Modern;Modern;Arcade,PC,87,7.7,not specified,116,max payne 3,7,2020,1184524,2509 hours,22400,15,484,1594,3,472.11
+82,948,hollow knight,2017,TeamCherry,Action Adventure;General,PC,87,8.8,No Online Multiplayer,107,hollow knight,2,2017,351048,6216 hours,38363,104,821,523,9,56.47
+83,963,the witness,2016,"Thekla,Inc",Miscellaneous;Puzzle;General;General;Puzzle;Puzzle;Adventure;3D;First-Person,PC,87,6.9,No Online Multiplayer,67,the witness,2,2016,509001,16728 hours,30359,105,2982,732,24,30.43
+84,986,dead space 2,2011,VisceralGames,Action;Shooter;Shooter;Third-Person;Sci-Fi;Sci-Fi;Arcade,PC,87,8.4,not specified,114,dead space 2,10,2016,253866,2629 hours,14097,15,520,341,3,96.56
+85,1016,divinity original sin,2014,LarianStudios,Action RPG;Role-Playing;Action RPG;Western-Style,PC,87,8.7,2 ,197,divinity original sin,8,2016,113342,2092 hours,5462,11,457,152,2,54.18
+86,1024,gears of war,2007,EpicGames,Action;Shooter;Shooter;Third-Person;Sci-Fi;Sci-Fi;Arcade,PC,87,7.7,8  Online,119,gears of war,2,2016,197802,19371 hours,8673,61,3444,284,27,10.21
+87,1036,inside,2016,PLAYDEAD,Action;Platformer;2D,PC,87,8.6,No Online Multiplayer,46,inside,7,2016,1006447,13111 hours,37950,126,4040,1354,17,76.76
+88,1038,europa universalis iv,2013,ParadoxDevelopmentStudio,Strategy;Real-Time;Historic;General;Historic,PC,87,8.7,Online Multiplayer,159,europa universalis iv,3,2016,147729,6157 hours,5797,24,543,198,8,23.99
+89,1052,total war warhammer ii,2017,CreativeAssembly,Strategy;Real-Time;Tactics,PC,87,7.5,not specified,42,total war warhammer ii,9,2017,1300855,11073 hours,38377,299,1821,1809,15,117.48
+90,1054,hex shards of fate,2016,"CryptozoicEntertainment,HexEntertainment",Miscellaneous;Card Battle;Strategy;Turn-Based;Card Battle,PC,87,6.4,Online Multiplayer,127,hex shards of fate,5,2016,167989,3917 hours,7541,20,299,226,5,42.89
+91,1078,forza horizon 3,2016,PlaygroundGames,Racing;Simulation;Automobile,PC,86,6.8,not specified,46,forza horizon 3,9,2016,765508,37807 hours,37343,430,9505,1064,52,20.25
+92,1103,final fantasy xiv heavensward,2015,SquareEnix,Massively Multiplayer Online;Fantasy;Role-Playing;Massively Multiplayer,PC,86,7.7,not specified,112,final fantasy xiv heavensward,1,2016,305520,33688 hours,13084,153,6456,411,45,9.07
+93,1108,the witcher,2008,CDProjektRedStudio,Role-Playing;Action RPG;Action RPG,PC,86,8.5,No Online Multiplayer,114,the witcher,10,2017,363407,4100 hours,11504,22,655,489,5,88.64
+94,2946,the witcher,2007,CDProjektRedStudio,Role-Playing;Action RPG;Action RPG,PC,81,8.8,No Online Multiplayer,114,the witcher,10,2017,363407,4100 hours,11504,22,655,489,5,88.64
+95,1112,call of duty 2,2005,InfinityWard,Action;Shooter;Shooter;First-Person;Historic;Historic;Arcade,PC,86,8.4,32  Online,180,call of duty 2,9,2017,186611,898 hours,34914,10,224,259,1,207.81
+96,1128,rise of the tomb raider,2016,"CrystalDynamics,NixxesSoftware",Action Adventure;General;Linear,PC,86,7.9,No Online Multiplayer,61,rise of the tomb raider,2,2016,646649,32074 hours,15297,173,6445,930,46,20.16
+97,1130,total war warhammer,2016,CreativeAssembly,Strategy;Turn-Based;General,PC,86,7.3,not specified,26,total war warhammer,5,2016,3142650,28006 hours,40915,418,3617,4229,37,112.21
+98,1134,resident evil 5,2009,Capcom,Action Adventure;Horror;Horror;Survival,PC,86,7.2,not specified,159,resident evil 5,8,2016,152325,8157 hours,7787,28,2917,205,10,18.67
+99,1141,black mesa,2012,BlackMesaModificationTeam,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,86,8.9,Online Multiplayer,174,black mesa,12,2019,329635,7369 hours,9132,37,1364,443,9,44.73
+100,1164,the binding of isaac rebirth,2014,Nicalis,Horror;Horror;Action;Action Adventure;Shooter;Survival;Shoot-'Em-Up;Top-Down,PC,86,8.3,No Online Multiplayer,132,the binding of isaac rebirth,12,2016,270451,7787 hours,12627,48,393,363,10,34.73
+101,1174,gears of war 4,2016,TheCoalition,Action;Shooter;Third-Person;Arcade,PC,86,6.7,not specified,64,gears of war 4,4,2016,549883,12195 hours,28073,183,2550,764,16,45.09
+102,1187,dishonored 2,2016,ArkaneStudios,Action Adventure;General,PC,86,6.7,No Online Multiplayer,32,dishonored 2,11,2016,2342500,49624 hours,86255,389,8480,3257,69,47.2
+103,1201,call of duty modern warfare 2,2009,InfinityWard,Action;Shooter;Shooter;First-Person;Modern;Modern;Arcade,PC,86,4.3,Up to 18 ,185,call of duty modern warfare 2,4,2016,115326,6427 hours,9008,27,1754,160,8,17.94
+104,1214,wolfenstein ii the new colossus,2017,MachineGames,Action;Shooter;First-Person;Arcade,PC,86,6.7,No Online Multiplayer,41,wolfenstein ii the new colossus,10,2017,1973119,20024 hours,86606,419,5138,2655,26,98.54
+105,1233,f1 2016,2016,Codemasters,Racing;Simulation;Automobile,PC,86,8.0,not specified,161,f1 2016,8,2016,150131,4626 hours,35111,63,1932,202,6,32.45
+106,1269,dead space,2008,EARedwoodShores,Action;Shooter;Shooter;Third-Person;Sci-Fi;Sci-Fi;Arcade,PC,86,8.0,No Online Multiplayer,164,dead space,2,2016,130525,2307 hours,7780,14,598,187,3,56.58
+107,1270,playerunknowns battlegrounds,2017,"Bluehole,Inc.,PUBGCorporation",Action;Shooter;First-Person;Tactical,PC,86,4.5,Up to more than 64 ,130,playerunknowns battlegrounds,9,2016,163045,743 hours,40509,76,214,226,1,219.44
+108,1274,bionic commando rearmed,2008,GRIN,Action;Platformer;Platformer;2D;2D,PC,86,6.8,No Online Multiplayer,180,bionic commando rearmed,7,2017,245601,32 hours,148605,12,17,330,0,7675.03
+109,1287,xcom enemy within,2013,FiraxisGames,Sci-Fi;Strategy;Turn-Based;Sci-Fi;General,PC,86,8.0,not specified,47,xcom enemy within,1,2016,1151692,16078 hours,12424,44,1601,1550,21,71.63
+110,1293,titanfall 2,2016,RespawnEntertainment,Action;Shooter;First-Person;Arcade,PC,86,8.2,not specified,66,titanfall 2,8,2016,501380,15101 hours,37194,277,16864,674,20,33.2
+111,1304,heroes of the storm,2015,BlizzardEntertainment,Action;Strategy;Real-Time;General;MOBA,PC,86,6.5,Up to 10 ,24,heroes of the storm,1,2016,3024529,102977 hours,34216,268,12972,4070,138,29.37
+112,1310,path of exile,2013,GrindingGearGames,Action RPG;Role-Playing;Action RPG,PC,86,8.0,Online Multiplayer,35,path of exile,1,2016,1701987,63038 hours,5337,157,5160,2290,84,27.0
+113,1314,assassins creed ii,2010,UbisoftMontreal,Action Adventure;Historic;Historic;Open-World,PC,86,7.0,No Online Multiplayer,135,assassins creed ii,1,2017,341584,3049 hours,33045,22,613,459,4,112.03
+114,1327,dirt rally,2015,Codemasters,Racing;Simulation;Automobile,PC,86,8.7,not specified,187,dirt rally,4,2016,112223,22621 hours,3344,148,4291,156,31,4.96
+115,1329,rocket league,2015,Psyonix,Sports;Racing;Team;Soccer;Futuristic;Arcade,PC,86,8.2,not specified,37,rocket league,1,2016,1566964,151028 hours,68040,402,36282,2108,203,10.38
+116,1332,injustice 2,2017,QLOC,Action;Fighting;2D,PC,86,7.8,Online Multiplayer,152,injustice 2,2,2017,201038,1460 hours,8485,12,207,299,2,137.7
+117,1346,cities skylines,2015,ColossalOrder,City Building;Modern;Strategy;Management;Government,PC,85,8.9,No Online Multiplayer,197,cities skylines,1,2016,172577,8602 hours,7371,30,1827,232,11,20.06
+118,1377,tales from the borderlands,2015,TelltaleGames,Adventure;General,PC,85,8.5,not specified,110,tales from the borderlands,2,2016,232835,3140 hours,13971,18,792,335,4,74.15
+119,1381,yakuza 0,2018,RyugaGotokuStudios,Action Adventure;Open-World,PC,85,8.6,Up to 4 ,117,yakuza 0,3,2016,212805,296 hours,7291,6,29,286,0,718.94
+120,1397,everquest,1999,SonyOnlineEntertainment,Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,85,8.3,Massively Multiplayer,125,everquest,6,2017,266263,10371 hours,9502,39,520,370,14,25.67
+121,1407,paradigm,2017,JacobJanerka,Adventure;Point-and-Click,PC,85,7.3,not specified,146,paradigm,4,2017,195665,816 hours,37173,7,187,272,1,239.79
+122,1415,battlerite,2017,StunlockStudios,Strategy;Real-Time;MOBA,PC,85,7.5,Online Multiplayer,32,battlerite,9,2016,1225903,30820 hours,27062,220,5719,1705,42,39.78
+123,1447,the binding of isaac afterbirth,2015,Nicalis,Action;Shooter;Shoot-'Em-Up;Top-Down,PC,85,8.2,not specified,41,the binding of isaac afterbirth,1,2016,1358589,32059 hours,14111,86,4543,1828,43,42.38
+124,1449,amnesia the dark descent,2010,FrictionalGames,Action Adventure;Horror;Horror;Survival,PC,85,8.6,not specified,131,amnesia the dark descent,10,2016,225547,4310 hours,21787,61,1327,303,5,52.33
+125,1467,south park the stick of truth,2014,ObsidianEntertainment,Role-Playing;General;General,PC,85,8.6,No Online Multiplayer,109,south park the stick of truth,2,2016,238032,3150 hours,29136,22,817,342,4,75.57
+126,1469,final fantasy xii the zodiac age,2018,SquareEnix,Role-Playing;Japanese-Style,PC,85,5.9,No Online Multiplayer,67,final fantasy xii the zodiac age,7,2017,830287,24809 hours,11865,163,1941,1117,33,33.47
+127,1477,shadow tactics blades of the shogun,2016,MimimiProductions,Strategy;Real-Time;Tactics,PC,85,8.5,No Online Multiplayer,144,shadow tactics blades of the shogun,12,2016,207441,4900 hours,17292,36,16,279,6,42.33
+128,1486,shovel knight,2014,YachtClubGames,Platformer;2D;Action;Platformer;2D,PC,85,8.0,not specified,172,shovel knight,1,2017,255376,2390 hours,191303,16,680,343,3,106.85
+129,1517,final fantasy xv,2018,SquareEnix,Role-Playing;Action RPG,PC,85,7.2,Up to 4 ,80,final fantasy xv,3,2016,385872,1075 hours,109069,129,2657,519,1,358.95
+130,1534,battleblock theater,2014,TheBehemoth,Action;Platformer;2D,PC,85,8.0,Online Multiplayer,101,battleblock theater,1,2016,332256,2041 hours,152739,19,1097,447,2,162.79
+131,1535,dragon ball fighterz,2018,ArcSystemWorks,Action;Fighting;2D,PC,85,7.6,2 ,96,dragon ball fighterz,9,2017,426521,3005 hours,59367,248,761,593,4,141.94
+132,1536,star wars knights of the old republic ii the sith lords,2005,ObsidianEntertainment,Role-Playing;Third-Person;Third-Person;General,PC,85,8.4,No Online Multiplayer,119,star wars knights of the old republic ii the sith lords,11,2019,533173,1152 hours,13259,9,238,741,1,462.82
+133,1607,final fantasy xi,2003,SquareEnix,Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,85,7.6,Massively Multiplayer,110,final fantasy xi,11,2018,645278,9379 hours,49977,41,553,897,13,68.8
+134,1640,papers please,2013,LucasPope,Adventure;General;General,PC,85,8.5,not specified,102,papers please,2,2018,473786,2447 hours,40920,23,980,706,3,193.62
+135,1641,doom,2016,idSoftware,Sci-Fi;Action;Shooter;First-Person;Third-Person;Arcade,PC,85,8.4,not specified,52,doom,4,2016,806087,19742 hours,36212,352,13816,1121,27,40.83
+136,1646,star wars the old republic,2011,"LucasArts,BioWare",Sci-Fi;Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Sci-Fi,PC,85,5.9,Massively Multiplayer,149,star wars the old republic,1,2016,236718,24519 hours,5441,82,2945,318,33,9.65
+137,1664,two point hospital,2018,TwoPointStudios,Simulation;Virtual;Career,PC,85,8.6,No Online Multiplayer,69,two point hospital,8,2018,1124039,12475 hours,46234,578,3262,1512,16,90.1
+138,1671,fallout new vegas,2010,ObsidianEntertainment,Role-Playing;Action RPG;First-Person;First-Person;Western-Style,PC,84,8.6,No Online Multiplayer,110,fallout new vegas,9,2016,220092,4993 hours,14958,21,1046,306,6,44.08
+139,1678,the movies,2005,LionheadStudios,Strategy;Tycoon;Management;Tycoon;Business / Tycoon,PC,84,8.3,1 Player,119,the movies,3,2021,1628665,37586 hours,49930,108,2121,2192,50,43.33
+140,1692,middleearth shadow of mordor,2014,MonolithProductions,Fantasy;Action Adventure;Fantasy;Open-World,PC,84,7.9,No Online Multiplayer,164,middleearth shadow of mordor,3,2017,159673,14005 hours,16743,54,3158,214,18,11.4
+141,1705,planetside 2,2012,SonyOnlineEntertainment,Role-Playing;Sci-Fi;Massively Multiplayer Online;Action;Shooter;Shooter;First-Person;Tactical;Sci-Fi;Sci-Fi;Arcade,PC,84,7.0,not specified,146,planetside 2,5,2016,143718,13700 hours,37730,55,2730,193,18,10.49
+142,1706,planet coaster,2016,FrontierDevelopments,Strategy;Management;Business / Tycoon,PC,84,7.7,No Online Multiplayer,173,planet coaster,4,2016,125333,3206 hours,26903,22,478,174,4,39.09
+143,1763,darkest dungeon,2016,RedHookStudios,Role-Playing;General,PC,84,7.8,No Online Multiplayer,25,darkest dungeon,1,2016,2664560,33174 hours,40249,158,4900,3586,44,80.32
+144,1840,hyper light drifter,2016,HeartMachine,Role-Playing;Action RPG,PC,84,8.3,not specified,103,hyper light drifter,4,2016,256429,11517 hours,29068,120,2670,356,16,22.27
+145,1841,enter the gungeon,2016,DodgeRoll,Action;General,PC,84,7.7,No Online Multiplayer,29,enter the gungeon,4,2016,2156489,48408 hours,39857,307,9249,2999,67,44.55
+146,1871,final fantasy ix,2016,SquareEnix,Role-Playing;Japanese-Style,PC,84,8.5,No Online Multiplayer,105,final fantasy ix,4,2016,247122,15487 hours,3401,107,1964,343,21,15.96
+147,1873,frostpunk,2018,11bitstudios,Action Adventure;Survival,PC,84,8.5,No Online Multiplayer,35,frostpunk,4,2018,2483270,40281 hours,58338,689,6416,3453,56,61.65
+148,1879,ftl faster than light,2012,SubsetGames,Simulation;Sci-Fi;Space;Small Spaceship;Small Spaceship;Combat,PC,84,8.4,not specified,132,ftl faster than light,2,2016,178725,3598 hours,10855,18,813,257,5,49.67
+149,1888,soma,2015,FrictionalGames,Horror;Horror;Action Adventure;Survival,PC,84,8.4,No Online Multiplayer,157,soma,1,2016,222419,4496 hours,92396,23,1303,299,6,49.47
+150,1904,nier automata,2017,PlatinumGames,Role-Playing;Action RPG,PC,84,8.4,No Online Multiplayer,64,nier automata,2,2017,823860,5621 hours,26441,84,1733,1227,8,146.57
+151,1916,nioh,2017,TeamNinja,Role-Playing;Action RPG,PC,84,6.7,Online Multiplayer,145,nioh,4,2016,153537,1382 hours,14762,28,2938,213,1,111.1
+152,1916,nioh,2017,TeamNinja,Role-Playing;Action RPG,PC,84,6.7,Online Multiplayer,196,nioh,4,2016,104130,391 hours,12577,23,236,144,0,266.32
+153,1923,thimbleweed park,2017,RonGilbertandGaryWinnick,Adventure;Point-and-Click,PC,84,8.1,No Online Multiplayer,124,thimbleweed park,4,2017,274264,3268 hours,10566,28,475,381,4,83.92
+154,1934,fallout 4,2015,BethesdaGameStudios,General;Role-Playing;Western-Style,PC,84,5.5,No Online Multiplayer,36,fallout 4,1,2016,1681938,269643 hours,12713,781,51042,2263,362,6.24
+155,1940,the messenger,2018,SabotageStudio,Action;Platformer;2D,PC,84,5.2,No Online Multiplayer,110,the messenger,9,2018,516683,9522 hours,11822,51,1426,718,13,54.26
+156,1953,fifa 17,2016,"EASports,EAVancouver",Sports;Team;Soccer;Sim,PC,84,4.1,not specified,15,fifa 17,9,2016,3702424,57359 hours,63965,1142,19627,5149,79,64.55
+157,1958,rift,2011,TrionWorlds,Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,84,7.3,Online Multiplayer,190,rift,3,2018,209568,7707 hours,4272,58,629,282,10,27.19
+158,1961,project cars 2,2017,SlightlyMadStudios,Racing;Simulation;Automobile,PC,84,6.9,Online Multiplayer,166,project cars 2,9,2017,201190,10663 hours,37062,166,2376,279,14,18.87
+159,1968,the end is nigh,2017,"EdmundMcMillen,TylerGlaiel",Action;Platformer;2D,PC,84,7.7,No Online Multiplayer,82,the end is nigh,7,2017,620524,7300 hours,36051,120,1383,835,9,85.0
+160,1971,speedrunners,2016,DoubleDutchGames,Action;General;General;Platformer;2D,PC,84,8.0,Online Multiplayer,115,speedrunners,1,2016,298927,2336 hours,22570,18,911,402,3,127.97
+161,1986,assassins creed origins,2017,"Ubisoft,UbisoftMontreal",Action Adventure;Open-World,PC,84,6.7,No Online Multiplayer,29,assassins creed origins,10,2017,3499963,49693 hours,80844,755,15494,4710,66,70.43
+162,1998,dark souls,2018,FromSoftware,Role-Playing;Action RPG,PC,84,5.5,Up to 6 ,46,dark souls,1,2016,1176135,30235 hours,14051,89,3882,1582,40,38.9
+163,2026,grim dawn,2016,CrateEntertainment,Action RPG;Role-Playing;Action RPG,PC,83,8.4,not specified,106,grim dawn,2,2016,252032,8944 hours,12691,53,1063,362,12,28.18
+164,2039,detention,2017,RedCandleGame,Adventure;General,PC,83,7.8,No Online Multiplayer,89,detention,1,2017,617452,5696 hours,38085,94,1791,831,7,108.4
+165,2047,smite,2014,Hi-RezStudios,Role-Playing;Strategy;Real-Time;Massively Multiplayer Online;Fantasy;MOBA;MOBA,PC,83,8.2,not specified,20,smite,1,2016,3788701,114041 hours,70542,296,15389,5099,153,33.22
+166,2050,halo combat evolved,2003,GearboxSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,83,7.5,1-16 ,176,halo combat evolved,7,2017,254726,889 hours,160097,12,192,342,1,286.53
+167,2065,hellblade senuas sacrifice,2017,NinjaTheory,Action Adventure;General,PC,83,8.3,No Online Multiplayer,41,hellblade senuas sacrifice,8,2017,1487844,42996 hours,83708,545,8416,2002,57,34.6
+168,2084,orcs must die,2011,RobotEntertainment,Action;Strategy;General;Real-Time;General;Defense,PC,83,8.1,not specified,151,orcs must die,4,2016,144382,6827 hours,21127,30,1225,200,9,21.15
+169,2088,life is strange,2015,DONTNODEntertainment,Action Adventure;Sci-Fi;General,PC,83,8.7,No Online Multiplayer,186,life is strange,1,2016,178272,12760 hours,3111,39,3323,239,17,13.97
+170,2104,deus ex mankind divided,2016,"EidosMontreal,NixxesSoftware",Action Adventure;General,PC,83,6.6,No Online Multiplayer,26,deus ex mankind divided,8,2016,2498241,28711 hours,86681,723,6159,3362,38,87.01
+171,2113,devil daggers,2016,Sorath,Action;Shooter;First-Person;Arcade,PC,83,7.1,No Online Multiplayer,132,devil daggers,3,2016,180538,1297 hours,32223,19,520,242,1,139.2
+172,2131,the forest,2018,SKSGames,Horror;Horror;Action Adventure;Survival,PC,83,7.2,not specified,137,the forest,1,2016,258927,10618 hours,33168,43,2609,348,14,24.39
+173,2153,age of empires,1997,EnsembleStudios,Strategy;Real-Time;Historic;Historic;Command,PC,83,8.7,1-8 ,142,age of empires,1,2016,248884,232 hours,107455,18,40,334,0,1072.78
+174,2153,age of empires,1997,EnsembleStudios,Strategy;Real-Time;Historic;Historic;Command,PC,83,8.7,1-8 ,200,age of empires,8,2019,268536,1770 hours,30412,21,362,361,2,151.72
+175,2169,terraria,2011,Re-Logic,Action;Action Adventure;Platformer;Platformer;Sandbox;2D;2D,PC,83,8.6,Up to 8 ,133,terraria,1,2016,264591,28667 hours,11834,88,5705,356,38,9.23
+176,2171,destiny 2,2017,"BungieSoftware,Bungie",Action;Shooter;First-Person;Arcade,PC,83,3.5,Up to 16 ,68,destiny 2,5,2017,765060,1326 hours,465627,225,482,1029,1,576.97
+177,2172,final fantasy xiv online,2013,SquareEnix,Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,83,6.8,Massively Multiplayer,86,final fantasy xiv online,5,2017,533590,28073 hours,35091,189,3965,718,37,19.01
+178,2178,this war of mine,2014,11bitstudios,Action;Strategy;Real-Time;General,PC,83,8.4,No Online Multiplayer,147,this war of mine,11,2017,257056,5831 hours,17603,29,1419,357,8,44.08
+179,2199,orcs must die 2,2012,RobotEntertainment,Action;Strategy;General;Real-Time;General;Defense,PC,83,7.9,not specified,187,orcs must die 2,4,2018,207386,485 hours,38971,7,163,288,0,427.6
+180,2203,hitman,2016,IoInteractive,Modern;Action Adventure;General,PC,83,7.3,No Online Multiplayer,173,hitman,2,2016,122352,723 hours,28011,52,1829,176,1,169.23
+181,2282,freedom planet,2014,GalaxyTrail,Action;Platformer;2D,PC,83,8.2,No Online Multiplayer,193,freedom planet,7,2017,224282,358 hours,179353,16,101,301,0,626.49
+182,2306,abzu,2016,GiantSquid,Action Adventure;Adventure;General;3D;Third-Person,PC,83,6.9,No Online Multiplayer,87,abzu,8,2016,338342,5738 hours,28205,116,2587,455,7,58.97
+183,2331,la noire,2011,RockstarLeeds,Adventure;3D;Modern;Third-Person;Modern,PC,83,7.9,No Online Multiplayer,55,la noire,7,2016,666533,1946 hours,36479,15,358,897,2,342.51
+184,2360,hearts of iron iv,2016,ParadoxDevelopmentStudio,Historic;Strategy;Real-Time;General,PC,83,7.1,not specified,43,hearts of iron iv,6,2016,963315,14033 hours,13793,126,1289,1339,19,68.65
+185,2371,counterstrike global offensive,2012,ValveSoftware,Action;Shooter;Shooter;First-Person;Modern;Tactical;Modern,PC,83,7.6,Up to 10 ,2,counterstrike global offensive,1,2016,47832863,830105 hours,372654,2197,120849,64378,1117,57.62
+186,2372,resident evil 7 biohazard,2017,Capcom,Action Adventure;Survival,PC,83,7.7,No Online Multiplayer,98,resident evil 7 biohazard,12,2016,430482,5669 hours,49143,63,1489,579,7,75.94
+187,2402,metal gear solid,2000,DigitalDialect,Action Adventure;Modern;General;Modern,PC,83,8.9,1 Player,161,metal gear solid,3,2016,146155,837 hours,2373,6,138,196,1,174.62
+188,2460,football manager 2018,2017,SportsInteractive,Sports;Team;Football;Sim,PC,82,5.5,not specified,78,football manager 2018,11,2017,705405,12576 hours,8026,54,849,981,17,56.09
+189,2464,superhot,2016,SUPERHOT,Modern;Action;Shooter;First-Person;Tactical,PC,82,7.5,not specified,78,superhot,2,2016,384833,4797 hours,49550,108,2159,553,6,80.22
+190,2491,tekken 7,2017,BandaiNamcoGames,Action;Fighting;3D,PC,82,6.7,Online Multiplayer,180,tekken 7,5,2016,106733,502 hours,6037,4,15,143,0,212.62
+191,2529,danganronpa trigger happy havoc,2016,SpikeChunsoft,Adventure;Visual Novel,PC,82,8.5,No Online Multiplayer,151,danganronpa trigger happy havoc,3,2016,154984,2708 hours,3771,17,296,208,3,57.23
+192,2676,crusader kings ii,2012,ParadoxDevelopmentStudio,Strategy;Real-Time;Historic;General;Historic,PC,82,8.7,Online Multiplayer,196,crusader kings ii,3,2017,123517,3163 hours,3290,17,369,166,4,39.05
+193,2716,forza motorsport 7,2017,Turn10,Racing;Simulation;Automobile,PC,82,4.1,not specified,158,forza motorsport 7,10,2017,232052,20292 hours,29514,89,3609,312,27,11.44
+194,2730,duelyst,2016,CounterplayGames,Fantasy;Strategy;Turn-Based;General,PC,82,7.7,Online Multiplayer,72,duelyst,2,2016,461526,6281 hours,22997,29,858,664,9,73.48
+195,2731,warhammer vermintide 2,2018,"FatsharkAB,Fatshark",Action;Shooter;First-Person;Arcade,PC,82,7.4,Up to 4 ,55,warhammer vermintide 2,2,2018,944043,14782 hours,40030,258,3284,1406,22,63.86
+196,2770,prey,2017,ArkaneStudios,General;Action;Shooter;First-Person;Arcade,PC,82,8.0,No Online Multiplayer,170,prey,4,2017,154056,1427 hours,43465,40,808,214,1,107.96
+197,2790,metro last light,2013,4AGames,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,82,8.6,not specified,177,metro last light,1,2016,186279,1309 hours,30280,13,439,250,1,142.31
+198,2812,hitman blood money,2006,IoInteractive,Action Adventure;Modern;General;Modern,PC,82,8.8,No Online Multiplayer,199,hitman blood money,3,2016,93954,860 hours,19504,8,260,126,1,109.25
+199,2828,the simpsons hit run,2003,RadicalEntertainment,Driving;Action Adventure;Mission-based;Mission-based;Open-World,PC,82,8.2,1 Player,176,the simpsons hit run,6,2018,294500,1009 hours,125675,16,198,409,1,291.87
+200,2846,starbound,2016,Chucklefish,Fantasy;General;Fantasy;Action Adventure;Sandbox,PC,81,7.2,Online Multiplayer,58,starbound,7,2016,621770,20908 hours,13245,165,3848,836,28,29.74
+201,2854,battlefield 4,2013,EADICE,Action;Shooter;Shooter;First-Person;Modern;Modern;Arcade,PC,81,6.1,not specified,60,battlefield 4,2,2016,652002,93183 hours,34159,263,19956,938,134,7.0
+202,2887,war thunder,2013,GaijinEntertainment,Action;Simulation;Flight;Flight;Vehicle;Combat,PC,81,6.5,not specified,138,war thunder,2,2016,171046,24090 hours,1357,81,3906,246,34,7.1
+203,2910,vvvvvv,2010,TerryCavanagh,Action;Platformer;Platformer;2D;2D,PC,81,8.0,No Online Multiplayer,191,vvvvvv,7,2016,165691,297 hours,159812,7,101,223,0,557.88
+204,2916,darksiders ii,2012,VigilGames,Action Adventure;Modern;Fantasy;Fantasy;Open-World,PC,81,7.9,not specified,147,darksiders ii,1,2016,242099,752 hours,120528,11,502,325,1,321.94
+205,2924,wolfenstein the new order,2014,MachineGames,General;Action;Shooter;First-Person;Historic;Arcade,PC,81,8.2,No Online Multiplayer,131,wolfenstein the new order,7,2016,262979,1893 hours,109501,12,670,353,2,138.92
+206,2943,rising storm 2 vietnam,2017,AntimatterGames,Action;Shooter;First-Person;Tactical,PC,81,7.9,Online Multiplayer,169,rising storm 2 vietnam,5,2017,169331,10072 hours,35819,203,2963,227,13,16.81
+207,2944,alien isolation,2014,CreativeAssembly,Action Adventure;Sci-Fi;General;Survival,PC,81,8.5,No Online Multiplayer,135,alien isolation,1,2016,264294,11799 hours,9590,42,3968,355,15,22.4
+208,2962,fortnite,2017,EpicGames,Action;General;General;Shooter;Third-Person;Tactical,PC,81,3.4,Massively Multiplayer,18,fortnite,7,2017,3789768,157724 hours,74484,1322,21887,5100,212,24.03
+209,2976,unravel,2016,ColdwoodInteractive,Action;Platformer;2D,PC,81,7.8,not specified,65,unravel,2,2016,540842,16720 hours,33485,202,5283,778,24,32.35
+210,2998,metro 2033,2010,4AGames,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,81,8.1,not specified,184,metro 2033,6,2017,149471,4965 hours,11021,35,1520,207,6,30.1
+211,3018,arcanum of steamworks and magick obscura,2001,TroikaGames,Role-Playing;PC-style RPG;PC-style RPG;Western-Style,PC,81,8.7,not specified,164,arcanum of steamworks and magick obscura,11,2019,310380,238 hours,12070,3,36,431,0,1304.12
+212,3028,kingdoms of amalur reckoning,2012,BigHugeGames,Role-Playing;PC-style RPG;Action RPG,PC,81,6.6,No Online Multiplayer,109,kingdoms of amalur reckoning,9,2020,1226682,26492 hours,61471,266,3114,1706,36,46.3
+213,3039,borderlands,2009,GearboxSoftware,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,81,7.7,Up to 4 ,55,borderlands,4,2019,1772278,80946 hours,30059,834,12746,2464,112,21.89
+214,3043,chuchel,2018,AmanitaDesign,Adventure;General,PC,81,7.3,No Online Multiplayer,162,chuchel,3,2018,244121,1158 hours,37133,16,545,328,1,210.81
+215,3052,firewatch,2016,CampoSanto,General;Adventure;3D;First-Person,PC,81,6.9,not specified,43,firewatch,2,2016,1569072,28712 hours,149305,700,8421,2257,41,54.65
+216,3055,little nightmares,2017,TarsierStudios,Action Adventure;General;Linear,PC,81,8.1,No Online Multiplayer,69,little nightmares,4,2017,623943,11513 hours,52331,329,4231,867,16,54.19
+217,3090,ni no kuni ii revenant kingdom,2018,Level5,Role-Playing;Japanese-Style,PC,81,8.2,No Online Multiplayer,71,ni no kuni ii revenant kingdom,3,2018,958564,40633 hours,30369,528,6872,1290,54,23.59
+218,3100,dragons dogma dark arisen,2016,"Capcom,QLOC",Role-Playing;Action RPG,PC,81,8.1,No Online Multiplayer,38,dragons dogma dark arisen,1,2016,1511191,34912 hours,37730,381,4363,2033,46,43.29
+219,3118,pro evolution soccer 2018,2017,Konami,Sports;Team;Soccer;Sim,PC,81,7.1,Online Multiplayer,172,pro evolution soccer 2018,9,2017,192084,11783 hours,8829,86,2481,267,16,16.3
+220,3124,world of warcraft battle for azeroth,2018,BlizzardEntertainment,Role-Playing;Massively Multiplayer,PC,80,5.3,Massively Multiplayer,189,world of warcraft battle for azeroth,8,2018,230598,65327 hours,5800,1659,7499,310,87,3.53
+221,3147,wasteland 2,2014,InXileEntertainment,PC-style RPG;General;Role-Playing;PC-style RPG;Western-Style,PC,81,7.3,not specified,148,wasteland 2,2,2020,506126,1906 hours,22327,10,134,728,2,265.54
+222,3154,call of duty black ops,2010,Treyarch,Action;Shooter;Shooter;First-Person;Historic;Historic;Arcade,PC,81,5.3,not specified,79,call of duty black ops,5,2016,351924,17676 hours,8719,175,4435,473,23,19.91
+223,3166,stories untold,2017,NoCode,Adventure;Text,PC,81,6.8,not specified,186,stories untold,3,2017,136187,433 hours,37433,6,135,183,0,314.52
+224,3173,slime rancher,2017,MonomiPark,Action;Shooter;First-Person;Arcade,PC,81,7.8,No Online Multiplayer,184,slime rancher,12,2016,150371,2240 hours,20106,13,146,202,3,67.13
+225,3201,mirrors edge,2009,EADICE,Action;Shooter;First-Person;Modern;Action Adventure;Modern;General;Modern,PC,81,8.1,1 Player,164,mirrors edge,1,2016,209507,1528 hours,186567,35,501,281,2,137.11
+226,3206,trackmania 2 canyon,2011,Nadeo,Driving;Racing;Arcade;Arcade;Automobile,PC,81,7.7,not specified,150,trackmania 2 canyon,12,2017,251411,270 hours,31899,5,84,338,0,931.15
+227,3207,motorsport manager,2016,PlaysportGames,Action;Simulation;General;Virtual;Career,PC,81,8.5,No Online Multiplayer,110,motorsport manager,3,2020,878718,2338 hours,32394,19,318,1182,3,375.84
+228,3218,south park the fractured but whole,2017,UbisoftSanFrancisco,Role-Playing;General,PC,81,6.6,No Online Multiplayer,14,south park the fractured but whole,10,2017,6922059,99180 hours,161626,1059,18053,9316,133,69.79
+229,3222,fifa 18,2017,EAVancouver,Sports;Team;Soccer;Sim,PC,81,2.7,not specified,11,fifa 18,9,2017,6566267,93428 hours,77228,1550,22276,9132,129,70.28
+230,3244,wreckfest,2018,Bugbear,Driving;General;General;Racing;Arcade;Automobile,PC,81,8.3,,83,wreckfest,6,2018,853372,11441 hours,79719,73,2416,1186,15,74.59
+231,3245,the red strings club,2018,Deconstructeam,Adventure;Visual Novel,PC,81,7.9,not specified,171,the red strings club,2,2018,198079,657 hours,28221,7,196,295,0,301.49
+232,3246,world of warships,2015,Wargaming.net,Action;General;General,PC,81,6.1,Online Multiplayer,76,world of warships,2,2016,405002,26471 hours,3353,74,3108,582,38,15.3
+233,3254,dishonored death of the outsider,2017,ArkaneStudios,Action Adventure;General,PC,81,7.1,No Online Multiplayer,124,dishonored death of the outsider,9,2017,315233,6634 hours,11403,98,1345,438,9,47.52
+234,3264,atlas reactor,2016,TrionWorlds,Turn-Based;Action;General,PC,81,7.8,Online Multiplayer,169,atlas reactor,2,2016,127027,1461 hours,15418,24,304,182,2,86.95
+235,3291,fifa 16,2015,EASports,Sports;Team;Soccer;Sim,PC,81,4.4,not specified,10,fifa 16,1,2016,6988475,203646 hours,145728,756,46462,9405,274,34.32
+236,3323,the elder scrolls legends,2017,"BethesdaSoftworks,DireWolfDigital",Miscellaneous;Board / Card Game,PC,80,5.6,Online Multiplayer,78,the elder scrolls legends,8,2016,391855,16505 hours,18331,60,2364,527,22,23.74
+237,3338,trials fusion,2014,RedLynx,Driving;Racing;Arcade;Motorcycle;Automobile;Street;Street,PC,80,6.8,not specified,121,trials fusion,7,2016,273396,4184 hours,139440,22,924,367,5,65.34
+238,3349,tyranny,2016,ObsidianEntertainment,Role-Playing;Western-Style,PC,80,7.8,No Online Multiplayer,110,tyranny,11,2016,275413,6105 hours,20863,97,880,383,8,45.11
+239,3351,football manager 2017,2016,SportsInteractive,Sports;Team;Soccer;Management,PC,80,5.1,not specified,107,football manager 2017,11,2016,302954,6618 hours,2967,32,492,421,9,45.78
+240,3363,grid 2,2013,Codemasters,Driving;Racing;Simulation;GT / Street;GT / Street;Automobile,PC,80,5.8,not specified,187,grid 2,1,2016,176713,1173 hours,11348,9,348,237,1,150.65
+241,3364,the evil within 2,2017,TangoGameworks,Action Adventure;Survival,PC,80,8.9,No Online Multiplayer,15,the evil within 2,10,2017,6510096,92347 hours,157125,890,15220,8761,124,70.5
+242,3383,hand of fate 2,2017,DefiantDevelopment,Miscellaneous;Board / Card Game,PC,80,7.0,No Online Multiplayer,46,hand of fate 2,11,2017,1362148,14237 hours,45824,91,2307,1894,19,95.68
+243,3415,battle brothers,2017,OverhypeStudios,Strategy;Turn-Based;Tactics,PC,80,7.5,No Online Multiplayer,161,battle brothers,4,2017,170977,3191 hours,6219,16,258,237,4,53.58
+244,3429,outlast,2013,RedBarrels,Horror;Action Adventure;Horror;Survival,PC,80,8.3,No Online Multiplayer,120,outlast,1,2016,287278,16863 hours,100468,72,6258,386,22,17.04
+245,3469,elite dangerous,2014,FrontierDevelopments,Sci-Fi;Large Spaceship;Large Spaceship;Simulation;Space;Civilian,PC,80,6.7,not specified,121,elite dangerous,1,2016,284656,30244 hours,2460,86,3654,383,40,9.41
+246,3482,faeria,2017,AbrakamSA,Miscellaneous;Board / Card Game,PC,80,7.7,Online Multiplayer,75,faeria,3,2016,416347,2855 hours,15335,17,280,560,3,145.83
+247,3495,darkwood,2017,AcidWizardStudio,Action Adventure;Horror;Survival,PC,80,8.4,not specified,126,darkwood,8,2017,339330,5898 hours,39458,40,1340,456,7,57.53
+248,3541,company of heroes 2,2013,Relic,Strategy;Real-Time;Historic;General;Historic,PC,80,2.1,not specified,188,company of heroes 2,1,2016,176089,7386 hours,1512,25,834,236,9,23.84
+249,3552,bioshock the collection,2016,2KGames,Action;Miscellaneous;Shooter;Compilation;First-Person;Arcade,PC,80,6.8,not specified,51,bioshock the collection,9,2016,629706,16487 hours,14143,133,4659,875,22,38.19
+250,3580,far cry 4,2014,UbisoftMontreal,Action;Shooter;First-Person;Modern;Arcade,PC,80,6.8,not specified,149,far cry 4,2,2016,154461,20024 hours,4862,64,5271,222,28,7.71
+251,3592,world of tanks,2011,Wargaming.net,First-Person;Modern;Action;Shooter;Shooter;Third-Person;Tactical;Historic;Historic,PC,80,3.6,not specified,15,world of tanks,1,2016,4993627,128356 hours,39358,368,16121,6720,172,38.9
+252,3593,vampire the masquerade bloodlines,2004,TroikaGames,Role-Playing;First-Person;Western-Style,PC,80,8.9,1 Player,199,vampire the masquerade bloodlines,6,2016,92951,625 hours,6367,6,105,129,0,148.72
+253,3674,naruto shippuden ultimate ninja storm 3 full burst,2013,CyberConnect2,Action;Fighting;Fighting;3D;3D,PC,80,8.1,Online Multiplayer,200,naruto shippuden ultimate ninja storm 3 full burst,1,2016,170447,782 hours,24391,12,213,229,1,217.96
+254,3699,life is strange before the storm,2017,DeckNineGames,Action Adventure;General,PC,80,7.9,not specified,91,life is strange before the storm,9,2017,454048,17191 hours,40338,367,6111,631,23,26.41
+255,3717,the awesome adventures of captain spirit,2018,DONTNODEntertainment,Action Adventure;General,PC,80,7.8,No Online Multiplayer,141,the awesome adventures of captain spirit,6,2018,407823,11897 hours,33924,343,6394,567,16,34.28
+256,3730,a way out,2018,Hazelight,Action;Action Adventure;General,PC,80,7.5,2 ,18,a way out,3,2018,5423162,89705 hours,233484,1587,21244,7299,120,60.46
+257,3748,batman the enemy within,2017,TelltaleGames,Adventure;Point-and-Click,PC,80,6.0,No Online Multiplayer,130,batman the enemy within,4,2018,378534,3302 hours,26352,22,733,526,4,114.64
+258,3783,stalker call of pripyat,2010,GSCGameWorld,Action;Shooter;Shooter;First-Person;Sci-Fi;Arcade,PC,80,8.7,Online Multiplayer,170,stalker call of pripyat,5,2016,120345,1670 hours,11120,11,326,161,2,72.06
+259,3800,archeage,2014,XLGAMES,Role-Playing;Massively Multiplayer Online;Massively Multiplayer;Fantasy;Fantasy,PC,80,3.7,not specified,160,archeage,2,2016,138994,6033 hours,2646,23,681,199,8,23.04
+260,3816,tales of berseria,2017,BandaiNamcoGames,Japanese-Style;Role-Playing;Action RPG,PC,80,8.0,No Online Multiplayer,89,tales of berseria,9,2016,286859,3837 hours,5411,23,177,398,5,74.76
+261,3822,microsoft flight simulator x,2006,MicrosoftGameStudios,Simulation;Flight;Modern Jet;Modern Jet;Combat,PC,80,7.6,32  Online,195,microsoft flight simulator x,1,2016,173015,14216 hours,1840,50,1130,232,19,12.17
+262,3858,dungeon of the endless,2014,AmplitudeStudios,Strategy;Real-Time;General;Fantasy,PC,79,7.9,Online Multiplayer,181,dungeon of the endless,12,2017,187185,713 hours,34222,6,216,251,0,262.53
+263,3890,for the king,2018,IronOakGames,Role-Playing;Roguelike,PC,79,7.3,Online Multiplayer,165,for the king,7,2017,276740,3301 hours,9922,23,471,372,4,83.84
+264,3930,euro truck simulator 2,2013,SCSSoftware,Simulation;General;General;Vehicle;Civilian,PC,79,8.7,not specified,49,euro truck simulator 2,1,2016,1109797,47937 hours,33826,168,7000,1493,64,23.15
+265,3950,far lone sails,2018,Okomotive,Action;Platformer;2D,PC,79,8.0,No Online Multiplayer,134,far lone sails,5,2018,400639,3483 hours,33860,57,1212,539,4,115.03
+266,3973,dark souls ii scholar of the first sin,2015,FromSoftware,Role-Playing;Action RPG,PC,79,7.4,not specified,41,dark souls ii scholar of the first sin,2,2016,1602427,63293 hours,21944,182,9572,2305,91,25.32
+267,3979,payday 2,2013,OverkillSoftware,Action;Shooter;Shooter;First-Person;Fantasy;General;Fantasy;Arcade,PC,79,3.6,Online Multiplayer,193,payday 2,2,2016,104133,19865 hours,2690,66,4244,149,28,5.24
+268,4019,a hat in time,2017,GearsforBreakfast,Action;Platformer;3D,PC,79,8.5,No Online Multiplayer,97,a hat in time,10,2017,488213,20147 hours,28625,182,3017,657,27,24.23
+269,4025,hitman absolution,2012,"IoInteractive,NixxesSoftware",Action Adventure;Modern;General;Modern,PC,79,7.1,not specified,116,hitman absolution,2,2016,206686,1512 hours,35817,15,478,297,2,136.7
+270,4079,tom clancys the division,2016,MassiveEntertainment,Shooter;Modern;Modern;Action;Shooter;Third-Person;Tactical;Arcade,PC,79,6.0,not specified,18,tom clancys the division,1,2016,4495935,61799 hours,148710,2008,28361,6051,83,72.75
+271,4100,guitar hero iii legends of rock,2007,Aspyr,Action;Miscellaneous;Rhythm;Music;Music,PC,79,7.4,1-2 ,185,guitar hero iii legends of rock,9,2016,106595,2702 hours,10062,13,602,148,3,39.45
+272,4122,gothic ii,2003,PiranhaBytes,Role-Playing;PC-style RPG;Western-Style,PC,79,8.9,1 Player,124,gothic ii,12,2017,342878,1107 hours,9174,11,107,461,1,309.74
+273,4163,trackmania turbo,2016,Nadeo,Racing;Arcade;Automobile,PC,79,7.0,not specified,73,trackmania turbo,3,2016,450701,9840 hours,21448,145,2719,606,13,45.8
+274,4165,battle chasers nightwar,2017,AirshipSyndicateEntertainment,Role-Playing;Action RPG;Japanese-Style,PC,79,7.6,No Online Multiplayer,68,battle chasers nightwar,10,2017,788908,16914 hours,31478,118,2073,1061,22,46.64
+275,4189,hitman 3,2016,IoInteractive,Action Adventure;General,PC,79,5.7,not specified,44,hitman 3,1,2021,5699993,74232 hours,202902,909,11193,7671,99,76.79
+276,4215,dont starve,2013,KleiEntertainment,Action Adventure;Fantasy;General;Fantasy;Sandbox,PC,79,8.3,No Online Multiplayer,174,dont starve,1,2016,190157,10890 hours,2190,37,2523,255,14,17.46
+277,4240,overlord ii,2009,TriumphStudios,Action Adventure;Fantasy;General;Fantasy,PC,79,8.1,No Online Multiplayer,119,overlord ii,4,2016,203475,167 hours,17774,9,40,282,0,1218.41
+278,4270,tom clancys rainbow six siege,2015,UbisoftMontreal,Modern;Action;Shooter;First-Person;Tactical,PC,79,7.1,not specified,16,tom clancys rainbow six siege,1,2016,4866039,242134 hours,25742,694,42244,6549,325,20.1
+279,4277,everspace,2017,ROCKFISHGames,Action;General;Action Adventure;Open-World,PC,79,7.5,No Online Multiplayer,192,everspace,6,2017,141290,2611 hours,11902,17,677,196,3,54.11
+280,4288,sid meiers civilization vi rise and fall,2018,FiraxisGames,Strategy;Turn-Based;4X,PC,79,6.2,not specified,132,sid meiers civilization vi rise and fall,2,2018,296944,6289 hours,12911,65,810,442,9,47.22
+281,4292,far cry 5,2018,UbisoftMontreal,Action;Shooter;First-Person;Arcade,PC,79,6.0,Up to 12 ,12,far cry 5,3,2018,10218053,191608 hours,258270,2864,46193,13752,257,53.33
+282,4318,shadow warrior 2,2016,FlyingWildHog,Action;Shooter;First-Person;Arcade,PC,78,8.2,Online Multiplayer,55,shadow warrior 2,10,2016,768859,14698 hours,28683,197,3011,1034,19,52.31
+283,4323,star wars battlefront ii,2005,PandemicStudios,Action;Shooter;Shooter;First-Person;Sci-Fi;Sci-Fi;Arcade,PC,78,8.6,Online Multiplayer,33,star wars battlefront ii,10,2017,2758928,55794 hours,121333,1065,17471,3713,75,49.45
+284,4380,battletech,2018,HarebrainedSchemesLLC,Strategy;Turn-Based;Tactics,PC,78,7.1,Online Multiplayer,54,battletech,4,2018,1188550,25209 hours,26795,504,2839,1653,35,47.15
+285,4382,doki doki literature club,2017,TeamSalvato,Adventure;Visual Novel,PC,78,8.4,not specified,106,doki doki literature club,10,2017,426347,16821 hours,17032,78,4348,573,22,25.35
+286,4387,vanquish,2017,PlatinumGames,Action;Shooter;Third-Person;Arcade,PC,78,9.1,No Online Multiplayer,151,vanquish,5,2017,202305,3074 hours,39075,89,999,272,4,65.81
+287,4391,stellaris,2016,ParadoxDevelopmentStudio,Strategy;Real-Time;General,PC,78,8.0,not specified,39,stellaris,5,2016,1435607,35360 hours,32618,304,4131,1932,47,40.6
+288,4431,dead rising 2,2010,BlueCastleGames,Action Adventure;Horror;Horror;Open-World,PC,78,6.5,not specified,120,dead rising 2,10,2016,247695,1988 hours,14784,13,508,333,2,124.6
+289,4442,zero escape zero time dilemma,2016,SpikeChunsoft,Adventure;Visual Novel,PC,78,8.3,No Online Multiplayer,101,zero escape zero time dilemma,7,2016,321911,3755 hours,17601,27,401,433,5,85.73
+290,4444,league of legends,2009,RiotGames,Role-Playing;Strategy;Action RPG;Real-Time;MOBA;MOBA,PC,78,5.5,Up to 10 ,1,league of legends,1,2016,94377226,1362044 hours,530270,2903,129172,127021,1833,69.29
+291,4461,observer,2017,BlooberTeam,Adventure;3D;First-Person,PC,78,7.8,No Online Multiplayer,67,observer,8,2017,811355,11766 hours,38710,152,2478,1091,15,68.96
+292,4506,devil may cry 4,2008,Capcom,Action;Action Adventure;Fantasy;Beat-'Em-Up;General;Fantasy;Linear,PC,78,8.5,No Online Multiplayer,125,devil may cry 4,3,2019,504267,10628 hours,17805,90,2376,678,14,47.45
+293,4525,sniper elite 4,2017,Rebellion,Action;Shooter;First-Person;Tactical,PC,78,7.1,not specified,62,sniper elite 4,2,2017,855764,20330 hours,40373,158,3662,1275,30,42.09
+294,4536,unravel two,2018,ColdwoodInteractive,Action;Platformer;2D,PC,78,6.0,No Online Multiplayer,129,unravel two,6,2018,446773,3531 hours,51982,90,1041,621,4,126.53
+295,4543,dead space 3,2013,VisceralGames,Action;Action Adventure;Shooter;Shooter;Linear;Third-Person;Sci-Fi;Sci-Fi,PC,78,6.1,not specified,148,dead space 3,10,2016,185704,2581 hours,9982,30,526,249,3,71.95
+296,4547,condemned criminal origins,2006,MonolithProductions,Action Adventure;Horror;Horror;Survival,PC,78,7.9,1 Player,171,condemned criminal origins,10,2016,156162,723 hours,9644,8,190,210,0,215.99
+297,4597,hand of fate,2015,DefiantDevelopment,Role-Playing;Miscellaneous;General;Board / Card Game,PC,78,7.8,No Online Multiplayer,165,hand of fate,2,2017,183915,1075 hours,36902,11,341,274,1,171.08
+298,4602,call of duty modern warfare 3,2011,"InfinityWard,SledgehammerGames",Action;Shooter;Shooter;First-Person;Modern;Modern;Arcade,PC,78,2.7,not specified,183,call of duty modern warfare 3,5,2016,104351,4045 hours,8633,22,1168,140,5,25.8
+299,4739,mount blade warband,2010,Taleworlds,Role-Playing;PC-style RPG;PC-style RPG;Western-Style,PC,78,8.7,Up to 64 ,193,mount blade warband,6,2017,141227,5236 hours,6005,24,1153,196,7,26.97
+300,4744,rime,2017,"TequilaWorks,QLOC",Action;Adventure;General;3D;Third-Person,PC,78,6.9,No Online Multiplayer,179,rime,5,2017,154168,3286 hours,7201,84,899,207,4,46.92
+301,4777,star trek bridge crew,2017,"Ubisoft,RedStormEntertainment",Action Adventure;General,PC,78,7.6,Online Multiplayer,128,star trek bridge crew,5,2017,263211,588 hours,45145,39,338,354,0,447.64
+302,4796,five nights at freddys,2014,animdude,Action Adventure;Adventure;General;Survival,PC,78,7.1,not specified,187,five nights at freddys,9,2020,579190,9694 hours,108389,45,3651,805,13,59.75
+303,4870,mafia ii,2010,2KCzech,Action Adventure;Historic;General;Historic;Open-World,PC,77,8.0,No Online Multiplayer,152,mafia ii,7,2016,215803,2506 hours,7962,13,564,290,3,86.11
+304,4893,bridge constructor portal,2017,ClockStoneSoftware,Simulation;Virtual;Career,PC,77,6.5,No Online Multiplayer,91,bridge constructor portal,12,2017,624325,3090 hours,29171,41,906,840,4,202.05
