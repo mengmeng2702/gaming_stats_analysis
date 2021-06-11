@@ -1,0 +1,18 @@
+All packages and libraries used for this project are listed below:
+
+- pandas
+- re
+- numpy
+- time
+- matplotlib.pyplot
+- sklearn.preprocessing (OneHotEncoder, StandardScaler)
+- sklearn.model_selection (train_test_split)
+- sklearn.ensemble (RandomForestClassifier)
+- sklearn.metrics (confusion_matrix, accuracy_score, classification_report)
+- tensorflow
+
+
+Additional exploration on the data using SHAP:
+
+- shap
+- sklearn.compose (ColumnTransformer)
