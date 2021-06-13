@@ -60,9 +60,11 @@ The team has carefully chosen Twitch Data, Steam Store Data and Steam Reviews Da
     Data has been explored with SHAP values to interpret the impact of certain values for a given feature compared to the baseline values. Please see more details about the analysis performed on SHAP values in this repo with file name *machine_learning_continuous_changable_any.ipynb*
 
 ## Result
-From our Feature Importance result, Average number of players per month, gain, number of reviews per month, percentage of positive review (voted up), and number of achievements are the primary variance in hours watched and streamed. Comparatively, genres of a game had a minimal effect.
+From our Feature Importance result, Average number of players per month, gain (increase in the average number of players comparing to the previous month), number of reviews per month, percentage of positive review (voted up), and number of achievements are the primary variance in determining the whether a game falls in the top 20% in terms of the average viewers/ streamers ratio in the following month. Comparatively, genres of a game had a minimal effect.
 
 ![feature_importance](resources/feature_importance.png)
+
+Similarly, for other categorical / continous analyses, the player / audience reaction variables also play a significantly bigger role than the intrinsic variables such as genres.
 
 ## Dashboard
 We built Tableau dashboards to visualize our data. We were able to discover more interesting relationships among various features: hours streamed compared to Average percentage voted up; developers and their corresponding games with monthly reveiws; hours watched by genre by year; hours streamed compared to number of achievements; and eventually a summary of the game performance throughout the years from 2016 to 2021. You can find our Tableau dashboards <a href="https://public.tableau.com/app/profile/sasha.manohar/viz/Steam-TwitchAnalysis/db_LandingPage">here</a>.
